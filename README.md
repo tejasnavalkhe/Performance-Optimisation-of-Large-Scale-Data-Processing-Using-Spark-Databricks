@@ -1,4 +1,4 @@
-# Determine the most efficient data format for handling large data - NYC Taxi Trips
+# Performance Optimisation of Large-Scale Data Processing Using Spark Databricks: A Case Study on NYC Taxi Trips with Parquet and Delta Formats
 
 • Explored Spark Databricks with the NYC Taxi Trips project, containing data in ‘parquet’ and ‘delta’ formats across different sizes (S, M, L, XL, XXL).
 
